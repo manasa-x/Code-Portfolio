@@ -3,3 +3,5 @@ numpy
 matplotlib
 seaborn
 opencv
+flask 
+mysql-connector-python
