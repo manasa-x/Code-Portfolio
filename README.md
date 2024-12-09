@@ -18,3 +18,4 @@ License plate detector that detects license plates using open cv
 ## Library Management System
 
 ## Install dependencies:
+-r requirements.txt
