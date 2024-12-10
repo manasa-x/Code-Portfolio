@@ -1,11 +1,5 @@
 # Code-Portfolio
-
-## Python Programming
-## SQL Queries
-## Pandas
-## EDA
-## ML project
-## Library Management System
+Refer the document
 
 ## Install dependencies:
 pip install -r requirements.txt
